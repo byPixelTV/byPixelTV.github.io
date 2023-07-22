@@ -125,7 +125,7 @@ body {
 }
 
 .footertxt {
---c: #000000; /* the color */
+--c: #00eeff; /* the color */
 --s: .15em;
 
 line-height:1.1em;
