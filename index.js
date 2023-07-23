@@ -11,6 +11,9 @@ function redirectToHome() {
 function redirectToMap() {
     window.location.replace("https://map.crafttopia.ehd.lol");
 }
+function redirectToDoni() {
+    window.location.replace("https://paypal.me/byPixelTV");
+}
 function initServerData(serverIp){
     fetch('https://api.mcsrvstat.us/2/'+serverIp)
     .then(response => response.json())
