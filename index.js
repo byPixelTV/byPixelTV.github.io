@@ -1,9 +1,9 @@
 function copyIpAdress() {
-    navigator.clipboard.writeText("enderia.ehd.lol");
+    navigator.clipboard.writeText("CraftTopia.ehd.lol");
     alert("Du hast dir die IP kopiert!")
   } 
 function redirectToDiscord() {
-    window.location.replace("http://dsc.gg/enderia");
+    window.location.replace("http://dsc.gg/CraftTopia");
 }
 function redirectToHome() {
     window.location.replace("index.html");
