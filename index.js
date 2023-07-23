@@ -8,6 +8,9 @@ function redirectToDiscord() {
 function redirectToHome() {
     window.location.replace("index.html");
 }
+function redirectToMap() {
+    window.location.replace("https://map.crafttopia.ehd.lol");
+}
 function initServerData(serverIp){
     fetch('https://api.mcsrvstat.us/2/'+serverIp)
     .then(response => response.json())
