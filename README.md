@@ -1,6 +1,6 @@
 ## Type of change
 
-- [] Add new directory for a server
+- [x] Add new directory for a server
 - [ ] Update directory of a server
 - [ ] Documentation Update
 
